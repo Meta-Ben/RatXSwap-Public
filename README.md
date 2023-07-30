@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
 </p>
 
+# About
+
+2022 project 
+
 NodeJS Bot to swap cryptos on multiple router ( like PancakeSwap )
 
 <h2> How to install 📦 </h2>
